@@ -53,4 +53,4 @@
       </Item>
     </Item>
   </Item>
-<Settings Name="@vsLocTools@\default.lss" Type="Lss" /></LCX>
+<Settings Name="@vsLocTools@\default.lss" Type="Lss"/></LCX>
