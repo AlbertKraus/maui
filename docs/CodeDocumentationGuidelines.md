@@ -32,5 +32,4 @@ If you are looking for examples, browse through the codebase, searching for the 
 ## "Testing" the documentation
 
 You can "test" the docs by simply hovering over the type in Visual Studio. The IntelliSense updates should be instantaneous when you have edited something. See image below for an example.
-
 ![Partial screenshot of the Visual Studio text editor showing comments being edited and changes immediately showing up in the tooltip of the relevant type.](assets/EditingDocumentationVisualStudio.png)
